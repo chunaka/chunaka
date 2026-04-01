@@ -1,6 +1,11 @@
 ## Hi there 👋
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+
 <!--
+
+
 **chunaka/chunaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
